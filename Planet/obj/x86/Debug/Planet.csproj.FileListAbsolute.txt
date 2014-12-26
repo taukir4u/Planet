@@ -1,0 +1,7 @@
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\Planet\Planet\bin\Debug\Planet.exe
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\Planet\Planet\bin\Debug\Planet.pdb
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\Planet\Planet\obj\x86\Debug\Planet.PlanetAppUI.resources
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\Planet\Planet\obj\x86\Debug\Planet.Properties.Resources.resources
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\Planet\Planet\obj\x86\Debug\Planet.csproj.GenerateResource.Cache
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\Planet\Planet\obj\x86\Debug\Planet.exe
+C:\Users\Taukir\Documents\Visual Studio 2010\Projects\Planet\Planet\obj\x86\Debug\Planet.pdb
